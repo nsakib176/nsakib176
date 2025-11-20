@@ -36,7 +36,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsakib176&layout=compact&theme=dark&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nsakib176&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nsakib176&theme=meta-dark)](https://git.io/streak-stats)
 
 </td>
 </tr>
